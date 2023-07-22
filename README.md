@@ -21,7 +21,7 @@
 
 
 Authors: [Victor Mlongoti](https://github.com/paradigmtech) 
-         [Sammy](https://github.com/sammy)
+         [& Sammy](https://github.com/sammy)
 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvSbZ7AEEr4Eh5jpKLM-zU-aicSUNaeXR-Q&usqp=CAU)
