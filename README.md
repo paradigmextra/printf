@@ -20,8 +20,8 @@
 
 
 
-Authors: [Nwabueze Franklin](https://github.com/NwabuezeFranklin) 
-         [Ifeoluwa Atansieye](https://github.com/Asiwajuife)
+Authors: [Victor Mlongoti](https://github.com/paradigmtech) 
+         [Sammy](https://github.com/sammy)
 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvSbZ7AEEr4Eh5jpKLM-zU-aicSUNaeXR-Q&usqp=CAU)
